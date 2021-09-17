@@ -1,0 +1,3 @@
+[submodule "react-chakra-tasks-app"]
+	path = react-chakra-tasks-app
+	url = git@github.com:gasheeee/react-chakra-tasks-app.git
