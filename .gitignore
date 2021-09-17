@@ -1,4 +1,4 @@
 .idea
 
-#rereact-chakra-tasks-app
-node_modules
+#react-chakra-tasks-app
+react-chakra-tasks-app/node_modules
